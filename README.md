@@ -14,4 +14,4 @@ A aplicação já estava totalmente funcional mas grande parte do seu código es
 
 ## :arrow_down_small: Observação
 
-Devido ao compartilhamento de estados, eu poderia ter criado contextos para aplicação, mas pela a simplicidade do projeto, optei por deixá-la dessa forma.
+Devido ao compartilhamento de estados, eu poderia ter criado contextos para aplicação, mas pela simplicidade do projeto, optei por deixá-la dessa forma.
