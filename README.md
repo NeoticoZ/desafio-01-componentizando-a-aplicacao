@@ -1,4 +1,4 @@
-# Desafio 02 - Componentizando a aplicação
+# Desafio 01 - Componentizando a aplicação
 
 Desafio desenvolvido pelo curso da Rocketseat.
 
