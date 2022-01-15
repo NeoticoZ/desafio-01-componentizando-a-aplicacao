@@ -4,6 +4,7 @@ import { GenreResponseProps } from './SideBar'
 import '../styles/content.scss'
 import { useEffect, useState } from 'react'
 import { api } from '../services/api'
+
 export interface MovieProps {
   imdbID: string
   Title: string
